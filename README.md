@@ -23,3 +23,7 @@ not end up in the final release, or they may also change according to the
 feedback.
 
 * [None]
+
+## Joe's added note
+
+The [*Mastering Shiny* book](https://amzn.eu/d/3q9OYY5)'s code is all online at https://mastering-shiny.org/index.html. It's well worth a look...
